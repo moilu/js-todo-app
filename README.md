@@ -1,14 +1,12 @@
-# Webpack Starter
+# JavaScript To-do app
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este proyecto consiste en una app para agregar tareas a una lista.
 
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
+Se puede eliminar, agregar y clasificar tareas según el botón que se utilice.
 
-Y para construir el build, recueren:
-```
-npm run build
+## Nota:
+Los estilos y estructura de esta app son un template previamente hecho por otras personas.
+La lógica de JS fue hecha por mí.
+
+
 ```
